@@ -22,6 +22,8 @@ I'm a **Javascript Developer** with **Frontend Focus** Passionate about crafting
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ItsMeSaba&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeSaba&layout=compact&theme=react)
+[![committers.top badge](https://user-badge.committers.top/georgia_private/ItsMeSaba.svg)](https://user-badge.committers.top/georgia_private/ItsMeSaba)
+
 
 ## 📫 Connect With Me
 
