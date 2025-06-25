@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Javascript Developer** with **Frontend Focus** Passionate about crafting great user experiences and optimizing performance.
+JavaScript engineer (React / Next.js, Node) with 4+ years building production apps that load in under 1s and serve 100k+ monthly users. I turn design hand-offs into accessible, high-performance interfaces while owning back-end APIs when needed.
 
 ## 🛠️ Tech Stack
 
@@ -28,9 +28,7 @@ I'm a **Javascript Developer** with **Frontend Focus** Passionate about crafting
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-silagadze-8164a31b0/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ItsMeSaba)
-
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)]() -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://saba-silagadze.vercel.app/)
 
 ---
 
