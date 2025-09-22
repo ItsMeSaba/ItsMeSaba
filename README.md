@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-JavaScript engineer (React / Next.js, Node) with 4+ years building production apps that load in under 1s and serve 100k+ monthly users. I turn design hand-offs into accessible, high-performance interfaces while owning back-end APIs when needed.
+JavaScript engineer (React / Next.js, Node) with 5+ years building production apps that load in under 1s and serve 100k+ monthly users. I turn design hand-offs into accessible, high-performance interfaces while owning back-end APIs when needed.
 
 ## 🛠️ Tech Stack
 
